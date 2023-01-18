@@ -1,7 +1,44 @@
-div{
+div, {
     font-size: large;
     line-height: 3.0em;
-    color: black 
+    color: white
     ;
-    
+    }
+
+body{
+ background-color: black;
+  cursor:pointer;
+  
+
+}
+
+.image-container{
+  border-radius:25%;
+  text-align:center;
+}
+h3{
+  text-align:center;
+  font-family:"arial";
+  color:yellow;
+}
+ul{
+  text-align:center;
+  font-family:"arial";
+}
+ li, p{
+  text-align:center;
+  font-family:"arial";
+  color:white
+}
+.image-container2{
+  text-align:right;
+}
+.contact{
+  text-align:center;
+}
+h1{
+  color:yellow
+}
+h2{
+  color:white
 }
