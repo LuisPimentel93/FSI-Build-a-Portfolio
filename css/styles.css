@@ -1,8 +1,7 @@
 div, {
-    font-size: large;
-    line-height: 3.0em;
-    color: white
-    ;
+    font-size:large;
+    line-height:3.0em;
+    color:white;
     }
 
 body{
@@ -28,7 +27,7 @@ ul{
  li, p{
   text-align:center;
   font-family:"arial";
-  color:white
+  color:white;
 }
 .image-container2{
   text-align:right;
@@ -37,8 +36,8 @@ ul{
   text-align:center;
 }
 h1{
-  color:yellow
+  color:yellow;
 }
 h2{
-  color:white
+  color:white;
 }
